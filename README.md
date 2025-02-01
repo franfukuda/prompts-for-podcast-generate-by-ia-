@@ -1,6 +1,3 @@
-Claro! Abaixo está o seu texto formatado em Markdown para uso no GitHub, incluindo a formatação básica e estruturando o documento para melhor legibilidade e organização:
-
-```markdown
 # CAPITAL CONSCIENTE – Negócios que Transformam o Mundo
 
 ## Sobre o Projeto
